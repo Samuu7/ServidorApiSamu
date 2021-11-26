@@ -1,3 +1,3 @@
 # ToDoListProjecte
 
-En la carpeta .rar està el ToDoList fet.
+En la carpeta projecte estàn totes les carpetes.
